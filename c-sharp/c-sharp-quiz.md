@@ -24,6 +24,7 @@
 - [ ] callback-based
 
 [Official documentation: Task asynchronous programming model](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/task-asynchronous-programming-model)
+resposta correta --> var contacts = new List<string>();
 
 #### Q4. How would you determine if a class has a particular attribute?
 
