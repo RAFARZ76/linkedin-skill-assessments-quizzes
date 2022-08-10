@@ -1,5 +1,4 @@
-## AWS Lambda
-
+## AWS Amazon Web Service
 #### Q1. How can you increase the CPU resources for your Lambda?
 
 - [ ] `Increase the configured CPU value`
